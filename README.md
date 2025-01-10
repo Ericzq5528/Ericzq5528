@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eric Here 👋
 
 <!--
 **Ericzq5528/Ericzq5528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
