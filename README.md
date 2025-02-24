@@ -92,4 +92,4 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Engineer** with ex
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 😊
+Thanks for visiting my profile! 😊
