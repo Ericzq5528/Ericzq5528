@@ -1,10 +1,10 @@
 # Hi, I'm Eric Zhang 👋
 
-Welcome to my GitHub! I'm a passionate **Data Analyst** and **Consultant** with experience in **data warehousing**, **data analysis**, and **business intelligence**. I specialize in **Python**, **SQL**, and **machine learning** to drive data-driven decision-making and business growth.
+Welcome to my GitHub! I'm a passionate **Data Analyst** and **Engineer** with experience in **data warehousing**, **ETL**, **data analysis**, and **business intelligence**. I specialize in **Python**, **SQL**, and **machine learning** to drive data-driven decision-making and business growth.
 
 ### 🚀 About Me
-- **Role**: Data Analyst / Consultant
-- **Experience**: 1 year in data warehousing, ELT, data analysis, and business intelligence across multiple industries.
+- **Role**: Data Analyst / Engineer
+- **Experience**: 2 years in data warehousing, ELT, data analysis, and business intelligence across multiple industries.
 - **Current Focus**: Seeking opportunities in **Sydney** as a data analyst/engineer.
 - **Passion**: Using data to create impactful business solutions.
 
@@ -14,11 +14,14 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Consultant** with 
 
 ### **Data Analysis & Machine Learning**
 - Proficient in **Data Visualization**, **Modelling**, and **Optimization**.
-- Skilled in **SQL**, **Python (TensorFlow & PyTorch)**, and **Tableau/PowerBI**.
+- Skilled in **SQL**, **Python (TensorFlow & PyTorch)**, and **Tableau/PowerBI**.]
+
+### **Data Engineer**
+- Expertise in **Data Warehousing**, **ETL processes**, and **GCP Cloud Computing**.
+- Experience with **Apache Airflow**, **Big Query**, and **Pub/Sub**.
 
 ### **Business Intelligence & Consulting**
-- Expertise in **Data Warehousing**, **ETL processes**, and **Cloud Computing**.
-- Experience with **Microsoft Excel (VBA)**, **PowerPoint**, and **Think-cell**.
+- Expertise in **Digitization**.
 
 ---
 
@@ -38,6 +41,12 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Consultant** with 
 
 ## 📈 Professional Experience
 
+### **Data Engineer, Woolworths Group**  
+*Mar 2023 – Present*  
+- Asset Management
+- Worked with **GCP**, **Maximo** and **Python**.
+
+
 ### **Assistant System Engineer, Tata Consultancy Services**  
 *Mar 2023 – Present*  
 - Designed and configured tailored UI and data pipelines for bank system projects.
@@ -53,7 +62,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Consultant** with 
 
 ### **Research Assistant (Intern), Deloitte**  
 *Apr 2022 - Jun 2022*  
-- Analyzed market trends, delivered actionable insights using **Tableau** and **MS Excel**.
+- Analyzed market trends, and delivered actionable insights using **Tableau** and **MS Excel**.
 
 ---
 
@@ -77,15 +86,9 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Consultant** with 
 ---
 
 ## 📬 How to reach me:
-- **Email**: [qzha5528@gmail.com](mailto:qzha5528@gmail.com)
+- **Email**: [qiang.zhang@sydney.edu.au](mailto:qiang.zhang@sydney.edu.au)
 - **LinkedIn**: [Eric's LinkedIn](https://www.linkedin.com/in/EricZusydDA)
-- **Phone**: (61) 481759423
 
----
-
-## 📊 GitHub Stats
-
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&hide_title=true)
 
 ---
 
