@@ -2,12 +2,6 @@
 
 Welcome to my GitHub! I'm a passionate **Data Analyst** and **Engineer** with experience in **data warehousing**, **ETL**, **data analysis**, and **business intelligence**. I specialize in **Python**, **SQL**, and **machine learning** to drive data-driven decision-making and business growth.
 
-### 🚀 About Me
-- **Role**: Data Analyst / Engineer
-- **Experience**: 2 years in data warehousing, ELT, data analysis, and business intelligence across multiple industries.
-- **Current Focus**: Seeking opportunities in **Sydney** as a data analyst/engineer.
-- **Passion**: Using data to create impactful business solutions.
-
 ---
 
 ## 🧑‍💻 Expertise & Skills
@@ -42,18 +36,18 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** and **Engineer** with ex
 ## 📈 Professional Experience
 
 ### **Data Engineer, Woolworths Group**  
-*Mar 2023 – Present*  
+*Mar 2023 – Mar 2025*  
 - Asset Management
 - Worked with **GCP**, **Maximo** and **Python**.
 
 
 ### **Assistant System Engineer, Tata Consultancy Services**  
-*Mar 2023 – Present*  
+*Mar 2023 – Mar 25*  
 - Designed and configured tailored UI and data pipelines for bank system projects.
 - Worked with **SQL**, **HTML5**, **CSS3**, **JavaScript**, and **Adobe Illustrator**.
 
 ### **Casual Academic, University of Sydney**  
-*Jan 2023 – Jul 2023*  
+*Aug 2022 – Oct 2025*  
 - Developed curricula and tutored in **financial econometrics** and **deep learning** using **Python**.
 
 ### **Data Analyst (Intern), Illuminera**  
